@@ -10,3 +10,8 @@ This project is the completed requirement for my _Brave Analytics_ certification
 Education Analytics | PostgreSQL • SQL
 
 This is a project I completed in Datacamp, where I analyzed student mental health survey data using PostgreSQL to examine how the length of stay relates to depression, social connectedness, and acculturative stress among international students. The project applied SQL querying and data aggregation techniques to uncover trends and generate insights from standardized mental health assessment data.
+
+# [Work Initiative Projects](https://github.com/enzobumatay/spreadsheet_projects)
+Microsoft Excel • Google Sheets
+
+A collection of spreadsheet-based business solutions developed as work initiatives using Microsoft Excel and Google Sheets. These tools automate manual processes, improve data accuracy, and streamline administrative workflows through dynamic formulas, validation rules, and automated reporting.
