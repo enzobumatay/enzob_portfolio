@@ -4,7 +4,7 @@ Hi! I'm Lorenzo, an analyst with over 10 years of experience in mathematics and 
 # [Frozen Capital Analysis](https://github.com/enzobumatay/portfolio_brave_analytics)
 Supply Chain Analytics | Python • Power BI • Excel
 
-This project is the final requirement for my _Brave Analytics_ certificate requirement. I analyzed inventory data to identify excess stock contributing to frozen capital. The project involved cleaning and preparing data with Python, building an interactive Power BI dashboard, and generating insights to support inventory optimization and working capital reduction.
+This project is the completed requirement for my _Brave Analytics_ certification, where I analyzed inventory data to identify excess stock contributing to frozen capital. The project involved cleaning and preparing data with Python, building an interactive Power BI dashboard, and generating insights to support inventory optimization and working capital reduction.
 
 # [Analyzing Students' Mental Health](https://github.com/enzobumatay/analyzing_student_mental_health)
 Education Analytics | PostgreSQL • SQL
