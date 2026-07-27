@@ -9,4 +9,4 @@ This project is the final requirement for my _Brave Analytics_ certificate requi
 # [Analyzing Students' Mental Health](https://github.com/enzobumatay/analyzing_student_mental_health)
 Education Analytics | PostgreSQL • SQL
 
-This is a project I had in Datacamp. I analyzed student mental health survey data using PostgreSQL to examine how the length of stay relates to depression, social connectedness, and acculturative stress among international students. The project applied SQL querying and data aggregation techniques to uncover trends and generate insights from standardized mental health assessment data.
+This is a project I completed in Datacamp, where I analyzed student mental health survey data using PostgreSQL to examine how the length of stay relates to depression, social connectedness, and acculturative stress among international students. The project applied SQL querying and data aggregation techniques to uncover trends and generate insights from standardized mental health assessment data.
